@@ -14,6 +14,8 @@
 
 
 
+$(document).ready(function(){
+
 ( function( window ) {
 
 'use strict';
@@ -82,3 +84,4 @@ if ( typeof define === 'function' && define.amd ) {
 
 })( window );
 
+})
