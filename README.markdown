@@ -5,7 +5,7 @@ The Rails version of the Creative theme by [Start Bootstrap](http://startbootstr
 [![Creative theme image][2]][1]
 
   [1]: http://ironsummitmedia.github.io/startbootstrap-creative/
-  [2]: https://raw.github.com/MrPowers/rails-startbootstrap-creative/blob/master/example_image.jpg (Creative theme)
+  [2]: https://github.com/MrPowers/rails-startbootstrap-creative/blob/master/example_image.jpg (Creative theme)
 
 ## How to add this theme to a Rails application
 
